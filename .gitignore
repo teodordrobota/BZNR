@@ -1,4 +1,4 @@
 bar
 baz
 foo
-.idea/
+.idea/*.*
